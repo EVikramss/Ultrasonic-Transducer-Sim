@@ -3,4 +3,6 @@ to observe the nodes formed in between them. Each source is treated as a 5-point
 Sine wave is used as source. Due to boundary conditions waves reflect from the boundary after certain time has elapsed.
 Code based on course - Computers, Waves, Simulations: A Practical Introduction to Numerical Methods.
 
+Recheck sim - node must be surrounded by max pressure
+
 ![Alt SimImage](IMG_2900.png)
