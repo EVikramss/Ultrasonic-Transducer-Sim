@@ -4,3 +4,5 @@ Sine wave is used as source. Due to boundary conditions waves reflect from the b
 Code based on course - Computers, Waves, Simulations: A Practical Introduction to Numerical methods
 
 ![Alt SimImage](IMG_2900.png)
+
+![Alt SimImage](standingWave.png)
